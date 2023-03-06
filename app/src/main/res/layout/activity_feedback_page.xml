@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:orientation="vertical" >
+    <EditText
+        android:id="@+id/txtTo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="FgirlStudio@gmail.com"
+        android:hint="FgirlStudio@gmail.com"/>
+    <EditText
+        android:id="@+id/txtSub"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="主旨"/>
+    <EditText
+        android:id="@+id/txtMsg"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="top"
+        android:hint="信件內容"/>
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="送出" />
+</LinearLayout>

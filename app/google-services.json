@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141987220424",
+    "project_id": "doghello-35f75",
+    "storage_bucket": "doghello-35f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141987220424:android:90e8666599a2c5c9d70efd",
+        "android_client_info": {
+          "package_name": "com.example.doghello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141987220424-9sc1ifqihb1viupq3mveeteh3h0uer2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5qikuX7F5kO7cVe95M30Avhp8uL-A0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141987220424-9sc1ifqihb1viupq3mveeteh3h0uer2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

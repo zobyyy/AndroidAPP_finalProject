@@ -1,0 +1,91 @@
+<resources>
+    <array name="kind_name">
+        <item>飼料</item>
+        <item>清潔用品</item>
+        <item>玩具</item>
+        <item>零食</item>
+        <item>外出用品</item>
+        <item>居家</item>
+    </array>
+    <array name="Pet_gender">
+        <item>男孩</item>
+        <item>女孩</item>
+    </array>
+    <array name="Pet_kind">
+        <item>米克斯</item>
+        <item>馬爾濟斯</item>
+        <item>貴賓</item>
+    </array>
+    <array name="Pet_Age">
+        <item>1</item>
+    </array>
+    <array name="weight_unit">
+        <item>公斤</item>
+        <item>公克</item>
+    </array>
+    <string name="app_name">毛寶貝</string>
+    <string name="next">Next</string>
+    <string name="previous">隱私條款</string>
+    <string name="title_activity_ware__house">小倉庫</string>
+    <string name="plz_input_email">請輸入帳號</string>
+    <string name="plz_input_password">請輸入密碼</string>
+    <string name="login_success">登入成功</string>
+    <string name="title_activity_basic__data__page">寵物資訊卡</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_health">體重追蹤</string>
+    <string name="title_activity_maps_page">附近醫院</string>
+
+    //隱私條款
+    <string name="pri_para0">非常感謝您使用「毛寶貝」（以下簡稱為「本軟體」），為了讓您能夠安心的使用本軟體的各項服務與資訊，特此向您說明本軟體的隱私權保護政策，以保障您的權益，請您詳閱下列內容：</string>
+    <string name="pri_title1">一、隱私權保護政策的適用範圍</string>
+    <string name="pri_para1">隱私權保護政策內容，包括本軟體如何處理在您使用此軟體服務時收集到的個人識別資料。隱私權保護政策不適用於本軟體以外的相關連結網站，也不適用於非本軟體所委託或參與管理的人員。</string>
+    <string name="pri_title2">二、個人資料的蒐集、處理及利用方式</string>
+    <string name="pri_para2">當您造訪本軟體或使用本軟體所提供之功能服務時，我們將視該服務功能性質，請您提供必要的個人資料，並在該特定目的範圍內處理及利用您的個人資料；非經您書面同意，本軟體不會將個人資料用於其他用途。\n
+本軟體在您使用服務信箱、問卷調查等互動性功能時，會保留您所提供的姓名、電子郵件地址、聯絡方式及使用時間等。\n
+於一般瀏覽時，伺服器會自行記錄相關行徑，包括您使用連線設備的IP位址、使用時間、使用的瀏覽器、瀏覽及點選資料記錄等，做為我們增進軟體服務的參考依據，此記錄為內部應用，決不對外公佈。\n
+為提供精確的服務，我們會將收集的問卷調查內容進行統計與分析，分析結果之統計數據或說明文字呈現，除供內部研究外，我們會視需要公佈統計數據及說明文字，但不涉及特定個人之資料。\n
+</string>
+    <string name="pri_title3">三、資料之保護</string>
+    <string name="pri_para3">所有用戶資料都只存放在用戶自己的 APP裝置上，並且我們支援Dropbox 等雲端儲存服務的串接，請您務必定期做好備份動作，以確保遭遇到手機遺失或是不明原因造成資料損毀等情況下，還有機會把您寶貴的資料記錄找回。\n
+如因業務需要有必要委託其他單位提供服務時，本軟體亦會嚴格要求其遵守保密義務，並且採取必要檢查程序以確定其將確實遵守。</string>
+    <string name="pri_title4">四、軟體對外的相關連結</string>
+    <string name="pri_para4">本軟體的服務內容提供其他網站的網路連結，您也可經由本軟體所提供的連結，點選進入其他網站。但該連結網站不適用本軟體的隱私權保護政策，您必須參考該連結網站中的隱私權保護政策。</string>
+    <string name="pri_title5">五、與第三人共用個人資料之政策</string>
+    <string name="pri_para5">本軟體絕不會提供、交換、出租或出售任何您的個人資料給其他個人、團體、私人企業或公務機關，但有法律依據或合約義務者，不在此限。\n
+前項但書之情形包括不限於：\n
+經由您書面同意。\n
+法律明文規定。\n
+為免除您生命、身體、自由或財產上之危險。\n
+與公務機關或學術研究機構合作，基於公共利益為統計或學術研究而有必要，且資料經過提供者處理或蒐集者依其揭露方式無從識別特定之當事人。\n
+當您在本軟體的行為，違反服務條款或可能損害或妨礙軟體與其他使用者權益或導致任何人遭受損害時，經本軟體管理單位研析揭露您的個人資料是為了辨識、聯絡或採取法律行動所必要者。
+有利於您的權益。\n
+本軟體委託廠商協助蒐集、處理或利用您的個人資料時，將對委外廠商或個人善盡監督管理之責。
+</string>
+    <string name="pri_title6">六、隱私權保護政策之修正</string>
+    <string name="pri_para6">本軟體隱私權保護政策將因應需求隨時進行修正，修正後的條款將刊登於本軟體上，建議您定期查看以了解更新後的內容。</string>
+    <string name="pri_title7">七、聯繫我們</string>
+    <string name="pri_para7">如果您對於隱私權政策有任何疑問或建議，請隨時來信至FgirlStudio@gmail.com與我們聯繫。</string>
+
+    //使用者條款
+    <string name="user_para0">感謝您使用 毛寶貝 APP！我們在此說明當您使用我們的網站、軟體及服務 (以下簡稱為「服務」) 時，即已同意此等使用條款。</string>
+    <string name="user_title1">一、智慧財產權</string>
+    <string name="user_para1">本服務內提供的任何資訊，包括但不限於本服務資訊內容、程式編碼、文字、美術作品、圖標、圖像及商標，均係本工作室或其他有權第三人所有，受到法律所保護。在未得到本工作室發出的事先書面許可前，您不得以任何方式就任何目的將本服務的內容或其任何部份進行重製、拷貝、出售、交易、轉售其內容或作任何商業目的之使用，且不得移除或變更本服務、內容中所包含的任何著作權權利電子管理資訊、防盜拷措施或其它權利（包括且不限於專利權、商標權）或軟體的標記。您亦不得使用任何自動工具或方式（包括但不限於魁儡程式、惡意軟體、爬蟲等方式）收集或破壞本服務訊息、資料以及干擾、侵犯本服務的正常運作。\n
+您可將本服務之內容及提供之資訊作非商業性、家居及個人使用，但必須維持所有權利完整無損。\n
+本工作室僅授權您使用本服務 ，而並非將本服務所提供的服務、內容、文字檔及任何編碼的智慧財產權移轉給您。為免存疑，一切本工作室沒有在本條款中明確授予您的權利，均由本工作室保留。\n
+未經本工作室許可，您不可以宣稱本工作室或「毛寶貝」是您的合作夥伴，或利用本服務的公開或未公開的資訊或程式編碼、文字、美術作品、圖標、圖像及商標進行任何商業行為。
+</string>
+    <string name="user_title2">二、免責聲明</string>
+    <string name="user_para2">我們不負責保存您的寵物任何相關資料，請您務必自行定期做好資料備份動作。\n
+本服務就各項服務，不負任何之擔保責任。本服務不保證各項服務不中斷，您同意承擔使用本服務之所有風險及可能發生之任何損害。
+</string>
+    <string name="user_title3">三、使用者條款之修正</string>
+    <string name="user_para3">本服務使用者條款將因應需求隨時進行修正，修正後的條款將刊登於本APP 上，建議您定期查看以了解更新後的內容。</string>
+    <string name="user_title4">四、聯繫我們</string>
+    <string name="user_para4">如果您對於使用者條款有任何疑問或建議，請隨時來信至 FgirlStudio@gmail.com 與我們聯繫。</string>
+
+</resources>

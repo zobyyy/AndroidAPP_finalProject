@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="30dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/kind_linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/kindTV"
+            android:layout_width="110dp"
+            android:layout_height="55dp"
+            android:text="品項"
+            android:textSize="30sp"
+            tools:layout_editor_absoluteX="60dp"
+            tools:layout_editor_absoluteY="196dp" />
+
+        <Spinner
+            android:id="@+id/kindSP"
+            android:layout_width="210dp"
+            android:layout_height="50dp"
+            android:background="@drawable/spinner_background"
+            android:entries="@array/kind_name"
+            tools:layout_editor_absoluteX="148dp"
+            tools:layout_editor_absoluteY="180dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/kind_name_linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="@id/kind_linearLayout"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/nameTV"
+            android:layout_width="110dp"
+            android:layout_height="55dp"
+            android:text="名稱"
+            android:textSize="30sp"
+            tools:layout_editor_absoluteX="60dp"
+            tools:layout_editor_absoluteY="292dp" />
+
+        <EditText
+            android:id="@+id/nameET"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:ems="10"
+            android:hint="請輸入物品名稱"
+            android:inputType="textPersonName"
+            tools:layout_editor_absoluteX="148dp"
+            tools:layout_editor_absoluteY="284dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/deadline_date_linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="@id/kind_name_linearLayout"
+        android:layout_marginTop="20dp">
+        <LinearLayout
+            android:id="@+id/datetextview_linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:orientation="horizontal"
+            android:gravity="center">
+        <TextView
+            android:id="@+id/dateTV"
+            android:layout_width="130dp"
+            android:layout_height="60dp"
+            android:text="有效日期"
+            android:textSize="30sp"
+            tools:layout_editor_absoluteX="60dp"
+            tools:layout_editor_absoluteY="386dp" />
+
+        <Button
+            android:id="@+id/dateBT"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
+            android:text="選擇日期"
+            tools:layout_editor_absoluteX="217dp"
+            tools:layout_editor_absoluteY="374dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/date_button_linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/dateTv"
+                android:layout_width="294dp"
+                android:layout_height="55dp"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="60dp"
+                tools:layout_editor_absoluteY="470dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/button_linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="@id/deadline_date_linearLayout"
+        android:layout_marginTop="15dp">
+
+        <Button
+            android:id="@+id/next_data_button"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="下一筆"
+            android:layout_marginRight="45dp"
+            tools:layout_editor_absoluteX="266dp"
+            tools:layout_editor_absoluteY="643dp" />
+        <Button
+        android:id="@+id/plusBT"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="送出"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="643dp" />
+    </LinearLayout>
+
+    </LinearLayout>

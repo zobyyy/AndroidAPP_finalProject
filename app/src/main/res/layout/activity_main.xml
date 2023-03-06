@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#EBE2D3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/email_enter_edittext"
+            android:layout_width="266dp"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext_background"
+            android:ems="10"
+            android:hint="帳號/信箱"
+            android:inputType="textPersonName"
+            tools:layout_editor_absoluteX="72dp"
+            tools:layout_editor_absoluteY="240dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/password_enter_edittext"
+            android:layout_width="266dp"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext_background"
+            android:ems="10"
+            android:hint="密碼"
+            android:inputType="numberPassword"
+            tools:layout_editor_absoluteX="72dp"
+            tools:layout_editor_absoluteY="353dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:cropToPadding="false"
+            android:layout_margin="10dp"
+            android:background="@android:color/transparent"
+            android:layout_width="140dp"
+            android:layout_height="92dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/login" />
+
+        <ImageButton
+            android:id="@+id/main_imageButton2"
+            android:cropToPadding="false"
+            android:layout_margin="10dp"
+            android:background="@android:color/transparent"
+            android:layout_width="140dp"
+            android:layout_height="92dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/register" />
+
+    </LinearLayout>
+
+</LinearLayout>
+

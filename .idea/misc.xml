@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/drawable/ic_icon_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/drawable/ic_logo_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_basic__data.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_basic__data__page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_basic__data__update.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_feedback_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_health.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_health_chart.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_health_plus.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_home_page.xml" value="0.1" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_maps_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_privacy_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_register_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_set_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_user_terms.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_ware__house.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_ware_plus.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_ware_update.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/activity_welcome_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/basic_data_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/content_basic__data__page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/content_health.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/content_ware__house.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/health_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/layout/item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/menu/health_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/menu/my_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/mipmap-anydpi-v26/ic_uppage.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/MISRLab_86/AndroidStudioProjects/DogHello1/app/src/main/res/mipmap-anydpi-v26/ic_uppage_round.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/drawable/edittext_background.xml" value="0.1703125" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/drawable/spinner_background.xml" value="0.1703125" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_basic__data.xml" value="0.23846153846153847" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_basic__data__page.xml" value="0.176" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_basic__data__update.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_feedback_page.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_health.xml" value="0.1678832116788321" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_health_chart.xml" value="0.2" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_health_plus.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_home_page.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_map_page.xml" value="0.1" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_maps.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_maps_page.xml" value="0.1" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_privacy_page.xml" value="0.11944444444444445" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_register_page.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_set_page.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_user_terms.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_ware__house.xml" value="0.2" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_ware_plus.xml" value="0.2" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_ware_update.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/activity_welcome_page.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/basic_data_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/content_basic__data__page.xml" value="0.264" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/content_health.xml" value="0.264" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/content_ware__house.xml" value="0.264" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/health_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/item.xml" value="0.2" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/layout/map_item.xml" value="0.1" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/menu/health_menu.xml" value="0.10052083333333334" />
+        <entry key="..\:/Users/Mificf/.AndroidStudio4.0/DogHello/app/src/main/res/menu/my_menu.xml" value="0.152" />
+        <entry key="..\:/專題/DogHello1/app/src/main/res/layout/activity_basic__data.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
